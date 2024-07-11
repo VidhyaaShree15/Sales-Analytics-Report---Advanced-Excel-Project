@@ -1,6 +1,3 @@
-# Sales-Analytics-Report-Advanced-Excel-Project
-The sales analytics report uses advanced Excel, Power Query, and Pivot Tables to provide insights into sales performance from 2019 to 2021 across regions, divisions, markets, and products. Highlights include net sales, market performance vs. targets, top and bottom products, and performance breakdowns by country and division.
-
 # Sales Analytics Report
 
 ## Overview
@@ -29,12 +26,4 @@ To view the report, download the PDF file available in this repository. The repo
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the report or additional analysis, please create a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries or further information, please contact [Your Name] at [your.email@example.com].
-
----
 
